@@ -1,0 +1,38 @@
+[Caractéristiques de la machine]
+	- Mémoire : 7,5 GiB
+	- Processeur : 11th Gen Intel® Core™ i7-1185G7 @ 3.00GHz × 8 
+	- Carte graphique : Mesa Intel® Xe Graphics (TGL GT2)
+	- Capacité du disque : 256,1 GB
+	- Nom du système d'exploitation : Ubuntu 20.04.1 LTS (fossa-charmander-14 X53)
+	- Type de système d'exploitation : 64 bits
+	- Version GNOME : 3.36.8
+	- Système de fenêtrage : X11
+
+[Environnements de développement]
+	- Compilateur pour java : javac
+	- Editeur : eclipse
+	
+[Description du projet]
+Le but de ce projet est de modéliser une salle informatique.
+En éxecutant le programme, vous allez pouvoir parcourir la salle informatique en vous connectant à un compte, découvrir les différents équipements informatiques, en ajouter des nouveaux...
+
+
+[Lancer le programme]
+2 options :
+	1 ~ Dans le terminal (pour un bel affichage)
+		-Se placer dans le dossier "salleInfo"
+		-compiler tous les fichiers ".java" : "javac *.java"
+		-remonter dans l'arborescence des dossiers : "cd .."
+		-exécuter le Main : "java salleInfo/Main"
+		
+	2 ~ Sur eclipse (attention, le clearScreen fonctionne mal)
+
+
+[Identifiants utilisables pour se connecter]
+Pour vous connecter en tant qu'élève, vous pouvez utiliser la session de Roxane Leduc:
+	login : rleduc
+	mdp : rrr
+
+Pour vous connecter en tant que prof, vous pouvez utiliser la session de Habib Abdulrab:
+	login : habdulrab
+	mdp : hhh
